@@ -1,0 +1,28 @@
+.MA-section-our-services {
+    width: 100%;
+    margin: 30px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+ 
+}
+ .MA-section-our-services-cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    width: 100%;
+    flex-direction: row;
+}
+.MA-section-our-services .MA-section-our-services-cards .MA-section-our-services-card1,.MA-section-our-services-card2{
+    margin: 0 40px;
+    height: max-content;
+    width: 100%;
+    background-color: aqua;
+}
+.MA-section-our-services .title {
+    font-weight: 700;
+    font-size: 30px;
+}
