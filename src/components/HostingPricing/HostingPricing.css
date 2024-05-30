@@ -1,0 +1,28 @@
+.MA-section-hosting-pricing{
+    padding: 70px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    background-color: #282828;
+    color: white;
+}
+.MA-section-hosting-pricing .MA-section-hosting-pricing-tile{
+    padding: 40px 0 50px 0;
+}
+.MA-section-hosting-pricing-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.MA-section-hosting-pricing-cards .card{
+    margin: 0 10px;
+}
+.MA-section-hosting-pricing p{
+    margin: 20px 0;
+    text-align: center;
+    max-width: 900px;
+
+}

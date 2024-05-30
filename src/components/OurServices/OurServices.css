@@ -5,7 +5,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    width: 100vw;
  
 }
  .MA-section-our-services-cards{
@@ -19,10 +19,14 @@
 .MA-section-our-services .MA-section-our-services-cards .MA-section-our-services-card1,.MA-section-our-services-card2{
     margin: 0 40px;
     height: max-content;
-    width: 100%;
-    background-color: aqua;
+    width: 48%;
+    
 }
 .MA-section-our-services .title {
     font-weight: 700;
     font-size: 30px;
+}
+
+.card1background{
+    background-color: aqua;
 }

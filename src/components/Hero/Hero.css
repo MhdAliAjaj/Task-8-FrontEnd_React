@@ -3,10 +3,12 @@
 .MA-Hero-section {
   position: relative;
   height: 100vh;
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   flex-direction: column;
+  
 }
 .container{
   padding: 0 5px;

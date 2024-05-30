@@ -1,0 +1,44 @@
+.container1{
+    padding: 0 20px;
+}
+.MA-Footer{
+   
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-align: left;
+    background-color: var(--writings-color);
+    /* padding-left: 33px;
+    padding-right: 33px; */
+    padding: 33px;
+    font-size: 17px;
+    font-family: light;
+    line-height: 20px;
+    background-color: #282828;
+    color: white;
+}
+.MA-Footer-Part-Left{
+width: 30%;
+flex-direction: column;
+justify-content: space-evenly;
+
+}
+.MA-Logo-container-footer{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.MA-Footer-Part-Right{
+    display: flex;
+    width: 70%;
+    justify-content: flex-end;
+    margin: 0 5px;
+    
+
+}
+.MA-Footer-Part-Right div{
+    width: 150px;
+    height: max-content;
+    /* background-color: aqua; */
+    margin: 0 10px;
+}
