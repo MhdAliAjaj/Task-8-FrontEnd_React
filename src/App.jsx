@@ -12,8 +12,8 @@ const App=()=> {
      <Navbar/>
      <Hero/>
      <OurServices/>
-     <HostingPricing />
-     <Footer />
+     {/* <HostingPricing /> */}
+     {/* <Footer /> */}
     </>
   )
 }
