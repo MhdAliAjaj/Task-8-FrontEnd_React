@@ -23,12 +23,12 @@ const OurServices = () => {
       image: (
         <img src="./images/brandingOrange.png" alt="brandingOrangeImage" />
       ),
-      // imageAfter: (
-      //   <img src="./images/brandingpattrnen.png" alt="brandingOrangeImage" />
-      // ),
-      // imagemobile: (
-      //   <img src="./images/marketingx.svg" alt="brandingOrangeImage" />
-      // ),
+      imageAfter: (
+        <img src="./images/brandingpattrnen.png" alt="brandingOrangeImage" />
+      ),
+      imagemobile: (
+        <img src="./../images/marketingx.svg" alt="brandingOrangeImage" />
+      ),
     },
     {
       id: 2,
